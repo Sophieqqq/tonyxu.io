@@ -21,11 +21,11 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "2ad88f461f30134b27dcdf8362233fc6"
+    "revision": "56a71fe221fc012d09a9ccfe3946c195"
   },
   {
     "url": "about/index.html",
-    "revision": "d14ea302c407e0761f41998c3807937f"
+    "revision": "0ffcc44b3e3ad8f61521ac42e1dd4da2"
   },
   {
     "url": "android-chrome-192x192.png",
@@ -384,8 +384,8 @@ self.__precacheManifest = [
     "revision": "61c62ff28df22ff19f6e2e00b4648b53"
   },
   {
-    "url": "assets/js/app.dbbeb884.js",
-    "revision": "8637c636fa7834e4298b19d851fbcd39"
+    "url": "assets/js/app.81b8ddf5.js",
+    "revision": "f3f7f078626a2f9ba8a99e7a1e69611b"
   },
   {
     "url": "favicon-16x16.png",
@@ -397,11 +397,11 @@ self.__precacheManifest = [
   },
   {
     "url": "friends/index.html",
-    "revision": "c96970ad9f937619ef2a5c538125bd61"
+    "revision": "0a2b4aa2aab0cd2bb31aec19bdd39d38"
   },
   {
     "url": "index.html",
-    "revision": "1b32c46d8e64f2b50ca686dccf4ab7e8"
+    "revision": "2d48492f2bec338d9b95ff0ae9db043c"
   },
   {
     "url": "mstile-150x150.png",
@@ -409,191 +409,191 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/be-prepared-for-your-next-job/index.html",
-    "revision": "dead9de475d97a8a8a5ef856352f0c4c"
+    "revision": "deb6fb234d05bc9b390ace64eca6e890"
   },
   {
     "url": "posts/2018/cloud-computing-exploration/index.html",
-    "revision": "dfb7b7182c8534f16b194eb1a0b55458"
+    "revision": "04e24ea36d70d0e838534628f28ec7bc"
   },
   {
     "url": "posts/2018/create-alfred-workflow-for-uploading-screenshot-to-s3/index.html",
-    "revision": "360ab7614ccdd746ca6cc214b930d19c"
+    "revision": "d7f2a1c96404ef247cf6e76da2eb210f"
   },
   {
     "url": "posts/2018/customize-chrome-new-tab-page/index.html",
-    "revision": "0986adff3119ff16886c2083ff265a05"
+    "revision": "e64789859cc600644306bb772320926b"
   },
   {
     "url": "posts/2018/embed-google-analytics-dashboard-on-website/index.html",
-    "revision": "c27d742138915d19fd1d9088a7e0431a"
+    "revision": "3d78397ccd532cbbbddae9df4cd9c33d"
   },
   {
     "url": "posts/2018/get-started/index.html",
-    "revision": "30a3e88530ed4e2d07ab0df7736aa947"
+    "revision": "4b9997489ffd7b44f65f4644268fb8b6"
   },
   {
     "url": "posts/2018/http-deprecate-x-prefix/index.html",
-    "revision": "0194ec6b000851584d1a029fd0c62e75"
+    "revision": "1ae2f57c245cc23ec4ec7626b3efa028"
   },
   {
     "url": "posts/2018/improve-your-ability-to-solve-problem-at-work/index.html",
-    "revision": "14e694c3049d22af841a0322ccf81b1d"
+    "revision": "481ace1ac16adb456249ccfde1071459"
   },
   {
     "url": "posts/2018/join-linkedin-one-month-summary/index.html",
-    "revision": "1474617c6cb7e18b214ca3b6a2d51594"
+    "revision": "df45d5cb13ffe405810bcfc497586ee7"
   },
   {
     "url": "posts/2018/oauth2-pkce-flow/index.html",
-    "revision": "335032360bb39dfec434335cba519310"
+    "revision": "6b98e588da7ddb95de1961116321bfd1"
   },
   {
     "url": "posts/2018/rest-api-design-interview-preparation/index.html",
-    "revision": "5f7732f1def6ed67752186dc7854bbd6"
+    "revision": "8958cd8ad4a5a1f427f17a004e8cfbd7"
   },
   {
     "url": "posts/2018/tech-stack-for-building-your-own-product/index.html",
-    "revision": "146f3508531ed1594ef10d72e3552f4c"
+    "revision": "092d265b9294a123732370bd8e79a797"
   },
   {
     "url": "posts/2018/technologies-learned-as-a-software-engineer/index.html",
-    "revision": "73c3dccafccfc0389826eaa49e7a6279"
+    "revision": "296341965c9a2a2b8a4575effcd22298"
   },
   {
     "url": "posts/2018/ultimate-way-to-beautify-mac-terminal-and-recommendations-for-plugins/index.html",
-    "revision": "76737d07930c641cc483b97a5d0e8855"
+    "revision": "444d0b28594470a1a526e222e15e30bf"
   },
   {
     "url": "posts/2018/use-firebase-cloud-function-to-count-website-visitors/index.html",
-    "revision": "a4fd4f8f5fbbe0eb2c79cc2628150eac"
+    "revision": "9f0883a6acc54d11f076312065e2902d"
   },
   {
     "url": "posts/2018/use-gitlab-ci-to-run-free-scheduled-jobs/index.html",
-    "revision": "ac5a142ccdfe1b04efeecb523e7ea5c0"
+    "revision": "991b516953f5b8cc438eaec99a8e6b8e"
   },
   {
     "url": "posts/2018/use-icomoon-to-reduce-fontawesome-size/index.html",
-    "revision": "37cc9ddd35f466eb865c3d92c25da36f"
+    "revision": "d61ec00a748729f56c27154a045675e6"
   },
   {
     "url": "posts/2018/use-telegram-and-flask-to-build-notification-server/index.html",
-    "revision": "8e34294f99babe7fa9158c0fefc606fe"
+    "revision": "35ca5d2a23e777ab99103955927b5a2c"
   },
   {
     "url": "posts/2018/write-script-to-scrap-house-rental-price/index.html",
-    "revision": "5d89f8e7df74117448dbaa04a3a7f08b"
+    "revision": "75f26eb22f8be0f4f9b72033914c7b58"
   },
   {
     "url": "posts/2019/use-github-to-mange-personal-knowledge-base/index.html",
-    "revision": "107f580b7d7e1dbbf0f2b48221b2014e"
+    "revision": "026332ff6a3c5e935916951d0b8f0cb0"
   },
   {
     "url": "posts/index.html",
-    "revision": "2edfece0dd02d567d36274ebdd313658"
+    "revision": "d731945aaf804348d01dee354024cbc1"
   },
   {
     "url": "projects/index.html",
-    "revision": "a71d636324f761b07a0f8c2c7ca75221"
+    "revision": "14ebe77e823f3fad1609f6a2d8a2c311"
   },
   {
     "url": "zh/about/index.html",
-    "revision": "3011d8b50ca22405e2a5f3c1026f0bc1"
+    "revision": "9c0475aa879284c1cdddd6ba909ddde0"
   },
   {
     "url": "zh/friends/index.html",
-    "revision": "36d94eb1994bc87d7d556c829d2b7f34"
+    "revision": "cc3b9a26183bb856e3289d704e437074"
   },
   {
     "url": "zh/index.html",
-    "revision": "1a2b59a19ba3a4d39911d57fd9e1fbeb"
+    "revision": "aed7918cd1fcf814bd55d3f52113f579"
   },
   {
     "url": "zh/posts/2018/be-prepared-for-your-next-job/index.html",
-    "revision": "82407a655a19de4e6d2f71e0ef586e3e"
+    "revision": "7f8be9041e538172532f29d86f575929"
   },
   {
     "url": "zh/posts/2018/cloud-computing-exploration/index.html",
-    "revision": "5072a8eabda405a6afaee2658ebce123"
+    "revision": "bfbc286a3f3f2be9de9792cfb24399f6"
   },
   {
     "url": "zh/posts/2018/create-alfred-workflow-for-uploading-screenshot-to-s3/index.html",
-    "revision": "c820106b98d9ffb4989ba1e9ef8be839"
+    "revision": "f84d5cc61390cb6806f0d9c914d4252c"
   },
   {
     "url": "zh/posts/2018/customize-chrome-new-tab-page/index.html",
-    "revision": "68810722a0b23a994224a4f4994882fe"
+    "revision": "602a4c766350ffd5e6ddb98d41f13179"
   },
   {
     "url": "zh/posts/2018/embed-google-analytics-dashboard-on-website/index.html",
-    "revision": "9433c9fc6f5555db9e53e05d14afdfe1"
+    "revision": "3d670e5c2a8a041b4aaa121b3e5e52cf"
   },
   {
     "url": "zh/posts/2018/get-started/index.html",
-    "revision": "0b091a438ba0e498280e77bb8811b7a9"
+    "revision": "9038068e4336e7b2b69c5243438517c0"
   },
   {
     "url": "zh/posts/2018/http-deprecate-x-prefix/index.html",
-    "revision": "74edcfb8593f64a3e500f7ba8164310d"
+    "revision": "c7fa1af2f205d26ab28789208a561117"
   },
   {
     "url": "zh/posts/2018/improve-your-ability-to-solve-problem-at-work/index.html",
-    "revision": "0e96859425926aa24073153f7b1444a3"
+    "revision": "24fc1198820212913ff62d5b6d58f0d9"
   },
   {
     "url": "zh/posts/2018/join-linkedin-one-month-summary/index.html",
-    "revision": "a4c0c1f7d2852f6542b263ad789cb9e9"
+    "revision": "88f5ee7a4fb85ef76882bd0b17fdbc75"
   },
   {
     "url": "zh/posts/2018/oauth2-pkce-flow/index.html",
-    "revision": "fd933c97bb3fed70db14712a05b40041"
+    "revision": "7effc29d6fa525cfdcaeb0fb7f414505"
   },
   {
     "url": "zh/posts/2018/rest-api-design-interview-preparation/index.html",
-    "revision": "4657bcd22d65841439bd3ba10fe8f614"
+    "revision": "e2ab4b5cf4fa7c387b1ab4bab526b7e5"
   },
   {
     "url": "zh/posts/2018/tech-stack-for-building-your-own-product/index.html",
-    "revision": "f53a7cf12470b187d8e515a50ec35012"
+    "revision": "fba5ac0c0d7b25ef1a6ef14d131e3f73"
   },
   {
     "url": "zh/posts/2018/technologies-learned-as-a-software-engineer/index.html",
-    "revision": "4a8d1f2b51c5d8548027da072cd75f7b"
+    "revision": "300a7b9eb77a6deba77bf754691d1dc6"
   },
   {
     "url": "zh/posts/2018/ultimate-way-to-beautify-mac-terminal-and-recommendations-for-plugins/index.html",
-    "revision": "1e7fd89ea1b6c12b24098128f703af05"
+    "revision": "7d76b3c5abec8c95f505d2921a211775"
   },
   {
     "url": "zh/posts/2018/use-firebase-cloud-function-to-count-website-visitors/index.html",
-    "revision": "4963940397ac7c5ffb8a6e113ac96a9d"
+    "revision": "acf5ba202314503ed8009da5d62f3891"
   },
   {
     "url": "zh/posts/2018/use-gitlab-ci-to-run-free-scheduled-jobs/index.html",
-    "revision": "48679458ee3806dc273ce50dec2cb31a"
+    "revision": "da79e1362a568123ad57f555742bd8fe"
   },
   {
     "url": "zh/posts/2018/use-icomoon-to-reduce-fontawesome-size/index.html",
-    "revision": "b577143dce384b70089cc8ed9b9cb008"
+    "revision": "a8fdf7eb32b1d0a681ed7f27fa3661d9"
   },
   {
     "url": "zh/posts/2018/use-telegram-and-flask-to-build-notification-server/index.html",
-    "revision": "2c004e367808ee6688b8d664a66ec53d"
+    "revision": "c13cda5a3368ba408d28d9d75e0128b6"
   },
   {
     "url": "zh/posts/2018/write-script-to-scrap-house-rental-price/index.html",
-    "revision": "28cb1ee1577195566835ab3de66bbf99"
+    "revision": "b927f940ee501ca5e83382598cabc6d4"
   },
   {
     "url": "zh/posts/2019/use-github-to-mange-personal-knowledge-base/index.html",
-    "revision": "b769cfddbbcd1e2859039736fac31f66"
+    "revision": "5617267ee540bcf29784dbaed319baa7"
   },
   {
     "url": "zh/posts/index.html",
-    "revision": "5bd7f941384db21221435bad74b35d4a"
+    "revision": "89747ec45659f9b394842ebdf94c2ef6"
   },
   {
     "url": "zh/projects/index.html",
-    "revision": "f64c8c4b6a422ce6ac07b55225423d66"
+    "revision": "b800d6b9f510ad1315b03bd4d87bc9bd"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
